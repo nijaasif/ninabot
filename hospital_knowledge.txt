@@ -1,0 +1,6 @@
+Hospital Info (Generic)
+- OPD timings: 9am–2pm (Mon–Sat)
+- Emergency: 24/7
+- Services: Cardiology, Radiology, Lab tests, Pharmacy
+- Appointment booking: Provide name, phone, department, preferred date/time
+- Location: Ask user for city/branch if unknown
