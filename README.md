@@ -25,16 +25,9 @@ This architecture enables hospitals to automate common patient queries such as:
 
 ## Tech Stack
 
-Backend
-• Python
-
-Frontend
-• HTML
-• CSS
-• JavaScript
-
-AI
-• LLM API Integration
+Backend-> Python
+Frontend -> HTML, CSS, JavaScript
+AI -> LLM API Integration
 
 Data
 • CSV storage
@@ -73,6 +66,10 @@ Hospital-specific information stored in a structured text dataset.
 CSV storage for handling appointment-related data.
 
 ## System Architecture
+
+
+
+
           ┌───────────────┐
           │   User /      │
           │   Patient     │
@@ -102,6 +99,9 @@ CSV storage for handling appointment-related data.
            ┌─────────────┐
            │   Response  │
            └─────────────┘
+
+
+
 
            ## Demo
 
