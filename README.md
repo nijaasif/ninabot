@@ -4,6 +4,13 @@
 
 The NINA Bot system is designed to automate hospital-patient interactions through an AI-powered conversational assistant.
 
+## Demo Video
+Click the image to watch the demo of **NINA Bot – AI Hospital Assistant**.
+
+[![NINA Bot Demo](https://img.youtube.com/vi/z-rebxim33Q/0.jpg)](https://youtu.be/z-rebxim33Q)
+
+
+
 Workflow:
 
 1. A patient interacts with the chatbot widget embedded on a hospital website.
@@ -118,6 +125,7 @@ CSV storage for handling appointment-related data.
 • Voice assistant capability  
 • Secure database storage  
 • Deployment on cloud infrastructure
+
 
 ## Setup
 
